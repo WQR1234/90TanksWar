@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/m1-0-1.gif</file>
+    <file>images/m1-0-2.gif</file>
+    <file>images/m1-1-1.gif</file>
+    <file>images/m1-1-2.gif</file>
+    <file>images/m1-2-1.gif</file>
+    <file>images/m1-2-2.gif</file>
+    <file>images/m1-3-1.gif</file>
+    <file>images/m1-3-2.gif</file>
+    <file>images/forest.gif</file>
+    <file>images/river-0.gif</file>
+    <file>images/stone.gif</file>
+    <file>images/wall.gif</file>
+    <file>images/m0-0-1.gif</file>
+    <file>images/m0-0-2.gif</file>
+    <file>images/m0-1-1.gif</file>
+    <file>images/m0-1-2.gif</file>
+    <file>images/m0-2-1.gif</file>
+    <file>images/m0-2-2.gif</file>
+    <file>images/m0-3-1.gif</file>
+    <file>images/m0-3-2.gif</file>
+    <file>images/1-1-1.gif</file>
+    <file>images/1-1-2.gif</file>
+    <file>images/1-2-1.gif</file>
+    <file>images/1-2-2.gif</file>
+    <file>images/1-3-1.gif</file>
+    <file>images/1-3-2.gif</file>
+    <file>images/1-4-1.gif</file>
+    <file>images/1-4-2.gif</file>
+    <file>images/bullet-0.gif</file>
+    <file>images/bullet-1.gif</file>
+    <file>images/bullet-2.gif</file>
+    <file>images/bullet-3.gif</file>
+    <file>images/bumb1.gif</file>
+    <file>images/bumb2.gif</file>
+    <file>images/bumb3.gif</file>
+    <file>images/camp0.gif</file>
+  </qresource>
+</RCC>
